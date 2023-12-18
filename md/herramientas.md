@@ -4,8 +4,9 @@
 ps: Muestra información de los procesos activos
 
 top: vision en tiempo real de los procesos que consumen mas recursos (CPU y memoria)
-![img1](/img/top.png)
 
+![img1](/img/top.png)
+<br>
 
 
 htop: como top pero con capacidad de desplazarse y filtrar procesos de manera más intuitiva. 
@@ -43,7 +44,7 @@ df: Muestra el espacio utilizado y disponible en los sistemas de archivos montad
 du: Muestra el espacio ocupado por un fichero o directorio. 
 
 ![img6](/img/du.png)
-
+<br>
 iostat: Se utiliza para rastrear los problemas de rendimiento de los dispositivos de almacenamiento.
 
 ![img7](/img/iostat.png)
