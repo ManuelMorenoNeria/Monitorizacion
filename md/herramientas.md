@@ -61,3 +61,5 @@ iptraf: Intercepta paquetes en la red y muestra información sobre el tráfico.
  
 ![img10](/img/iptraf.png)
 bandwidthd: una herramienta específica de monitorización del ancho de banda
+
+![img11](/img/bandwith.png)
