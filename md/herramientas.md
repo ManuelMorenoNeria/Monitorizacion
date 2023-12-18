@@ -41,10 +41,13 @@ df: Muestra el espacio utilizado y disponible en los sistemas de archivos montad
 
 
 ![img5](/img/df.png)
+<br>
 du: Muestra el espacio ocupado por un fichero o directorio. 
 
 ![img6](/img/du.png)
+
 <br>
+
 iostat: Se utiliza para rastrear los problemas de rendimiento de los dispositivos de almacenamiento.
 
 ![img7](/img/iostat.png)
