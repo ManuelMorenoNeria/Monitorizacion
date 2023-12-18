@@ -1,5 +1,5 @@
 
-PROCESOS
+## PROCESOS
 
 ps: Muestra información de los procesos activos
 
@@ -28,7 +28,7 @@ atop: Registra e informa de la actividad de todos los procesos del servidor
 !(img3)[/img/atop.jpg]
 
 
-MEMORIA, ESPACIO Y RENDIMIENTO DEL DISCO
+## MEMORIA, ESPACIO Y RENDIMIENTO DEL DISCO
 
 
 free: Muestra la cantidad de memoria libre y utilizada en el sistema.
@@ -48,7 +48,7 @@ iostat: Se utiliza para rastrear los problemas de rendimiento de los dispositivo
 
 !(img7)[/img/iostat.jpg]
 
-TRÁFICO DE LA RED
+## TRÁFICO DE LA RED
 
 tcpdump: Analiza el tráfico que circula por la red. 
 
