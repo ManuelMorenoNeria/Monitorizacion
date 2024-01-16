@@ -1,5 +1,5 @@
 # Monitorizacion
-
+![img](monitorizacion.png)
 ## Índice:
 
 [1.- Introducción](/md/introduccion.md)
